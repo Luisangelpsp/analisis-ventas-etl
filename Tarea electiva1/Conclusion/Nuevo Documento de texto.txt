@@ -1,0 +1,1 @@
+El desarrollo del proyecto permitió implementar un pipeline ETL completo, integrando datos desde archivos CSV hacia una base de datos MySQL. El modelo relacional garantiza la integridad de los datos mediante claves primarias y foráneas, y los resultados obtenidos validan la correcta carga y consistencia de la información.
